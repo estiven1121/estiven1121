@@ -15,7 +15,7 @@
 
 - ⚡ Dato curioso **Creo firmemente que la disciplina es el pilar de todo lo que queremos lograr. Es la fuerza que impulsa la consistencia, la mejora continua y el éxito a largo plazo.**
 
-- 😓 Información adicional  **este es mi githubprincipal https://github.com/estiven1121 me toco migrar mi informacion a este mientras soluciono un hackeo que tuve y mi cuenta se encuentra en spam aca les dejo un poco de mi historial en github.**
+- 😓 Información adicional  **este es mi githubprincipal https://github.com/estiven2111 me toco migrar mi informacion a este mientras soluciono un hackeo que tuve y mi cuenta se encuentra en spam aca les dejo un poco de mi historial en github.**
 
 <p><img align="center" src="https://res.cloudinary.com/draxxv99e/image/upload/v1708912737/Github/Captura_de_pantalla_2024-02-25_205831_y5mp1a.png" alt="Github/estiven2111" /></p>
 
