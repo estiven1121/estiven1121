@@ -1,8 +1,8 @@
-![image](https://github.com/estiven1121/estiven1121/assets/159191052/a5381e70-337b-42f1-afc4-8eda4a604b14)<h1 align="center">Hola 👋, soy Estiven Arboleda</h1>
+<h1 align="center">Hola 👋, soy Estiven Arboleda</h1>
 <h3 align="center">Un apasionado desarrollador FullStack de Colombia 💻</h3>
 
 
-<p><img align="center" src="https://res.cloudinary.com/draxxv99e/image/upload/v1708915563/Github/portadagit_jbfzae.jpg" alt="Github/estiven2111" /></p>
+<p align="center"><img align="center" src="https://res.cloudinary.com/draxxv99e/image/upload/v1708915563/Github/portadagit_jbfzae.jpg" alt="Github/estiven2111" /></p>
 
 - 🔭 Actualmente estoy trabajando en [AEROMAQUINADOS - AEROBÓTICA](https://aeromaquinados.com/robots-industriales/)
 
